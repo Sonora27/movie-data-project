@@ -45,14 +45,14 @@ To accomplish this, we scraped data off of BoxOfficeMojo using BeautifulSoup, cl
 
 ### Correlation Between Budget and Revenue by Year by Genre
 
-![Correlation Between Budget and Profit By Genre](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/%5B'Drama'%2C%20'Comedy'%2C%20'Thriller'%2C%20'Action'%2C%20'Adventure'%2C%20'Romance'%2C%20'Crime'%2C%20'Fantasy'%2C%20'Family'%2C%20'Sci-Fi'%2C%20'profit'%5D.png)
+![Correlation Between Budget and Profit By Genre](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/%5B'Drama'%2C%20'Comedy'%2C%20'Thriller'%2C%20'Action'%2C%20'Adventure'%2C%20'Romance'%2C%20'Crime'%2C%20'Fantasy'%2C%20'Family'%2C%20'Sci-Fi'%2C%20'worldwide'%5D.png)
 
 * Certain genres such as Action and Adventure have always had a strong relationship between budget and revenue
 * Comedies did not used to have a strong relationship between budget and revenue, but that has recently changed
 
 ## Conclusions and Recommendations for Microsoft
 
-* Microsoft should make big-budgeted Action and Adventure movies if they are looking to make the biggest splash at the box office
+* If Microsoft is working with a large budget, they should make films in Action and Adventure since they have a higher budget revenue correlation. 
 * Seth Rogen's hypothesis that Comedy movies need to have to big budgets in modern times in order to be successful appears to be supported by our data
 * Microsoft should capitalize on the current box office market inefficiency on Comedies by making a big-budgeted Comedy
 * They would have little competition in the genre and big-budgeted Comedies are experiencing much increased success recently
@@ -61,6 +61,7 @@ To accomplish this, we scraped data off of BoxOfficeMojo using BeautifulSoup, cl
 
 * Are there any Comedy genre synergies that perform better at the box office than others?
 * For example, does an Action Comedy generate better revenue at the box office than an Adventure Comedy?
+* How well do certain genres perform at the box office within specified budget brackets? 
 
 
 
