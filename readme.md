@@ -52,10 +52,10 @@ To accomplish this, we scraped data off of BoxOfficeMojo using BeautifulSoup, cl
 
 ## Conclusions and Recommendations for Microsoft
 
-* Microsoft should make bid-budgeted action and adventure movies if they are looking to make the biggest splash at the box office
+* Microsoft should make big-budgeted action and adventure movies if they are looking to make the biggest splash at the box office
 * Seth Rogen's hypothesis that comedy movies need to have to big budgets in modern times in orderto be successful appears to be supported by our data
-* Microsoft should capitalize on the current box office market inefficiency on comedies by making a bid-budgeted comedy
-* They would have little competition in the genre and bid-budgeted comedies are experiencing much increased success recently
+* Microsoft should capitalize on the current box office market inefficiency on comedies by making a big-budgeted comedy
+* They would have little competition in the genre and big-budgeted comedies are experiencing much increased success recently
 
 ## Future Work
 
