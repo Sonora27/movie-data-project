@@ -25,7 +25,7 @@ To accomplish this, we scraped data off of BoxOfficeMojo using BeautifulSoup, cl
 
 ### The Genres With The Most Revenue
 
-![Genres With Most Revenue](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/new-genres-box-office.png)
+![Genres With Most Revenue](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/newest-genres-box-office.png)
 
 * The best performing genres are Adventure, Sci-Fi, Action, and Fantasy
 * Drama is the worst performing genre while Comedy is a middling performer
