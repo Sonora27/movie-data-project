@@ -8,16 +8,16 @@ Sources: BoxOfficeMojo
 
 Microsoft has decided that they want to enter the movie industry, but they do not know anything about this particular industry. They have tasked us with collecting data on box office revenue and asked us to make recommendations to them on what type of movies they should make based off that data.
 
-Also, we are interested in testing the hypothesis made by comedian Seth Rogen recently that comedy movies are not simply declining, they have just become bigger budget affairs.
+Also, we are interested in testing the hypothesis made by comedian Seth Rogen recently that Comedy movies are not simply declining, they have just become bigger budget affairs.
 
 To accomplish this, we scraped data off of BoxOfficeMojo using BeautifulSoup, cleaned it using Pandas, and made visualizations and conclusions using Matplotlib.
 
 ## Objectives
 
 * Which genre of movie does the best at the box office?
-* Is the comedy genre In fact declining recently, relative to other genres?
+* Is the Comedy genre in fact declining recently, relative to other genres?
 * Has the correlation between budget and profit increased in recent years?
-* Are big budget comedies more successful now than in the past as Seth Rogen has suggested?
+* Are big budget Comedies more successful now than in the past as Seth Rogen has suggested?
 
 
 
@@ -52,12 +52,17 @@ To accomplish this, we scraped data off of BoxOfficeMojo using BeautifulSoup, cl
 
 ## Conclusions and Recommendations for Microsoft
 
-* Microsoft should make big-budgeted action and adventure movies if they are looking to make the biggest splash at the box office
-* Seth Rogen's hypothesis that comedy movies need to have to big budgets in modern times in order to be successful appears to be supported by our data
-* Microsoft should capitalize on the current box office market inefficiency on comedies by making a big-budgeted comedy
-* They would have little competition in the genre and big-budgeted comedies are experiencing much increased success recently
+* Microsoft should make big-budgeted Action and Adventure movies if they are looking to make the biggest splash at the box office
+* Seth Rogen's hypothesis that Comedy movies need to have to big budgets in modern times in order to be successful appears to be supported by our data
+* Microsoft should capitalize on the current box office market inefficiency on Comedies by making a big-budgeted Comedy
+* They would have little competition in the genre and big-budgeted Comedies are experiencing much increased success recently
 
 ## Future Work
+
+* Are there any Comedy genre synergies that perform better at the box office than others?
+* For example, does an Action Comedy generate better revenue at the box office than an Adventure Comedy?
+
+
 
 
 
