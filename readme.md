@@ -1,6 +1,6 @@
 # Movie Industry Data Analysis
 
-Numen Rubino & Jose Ramirez
+Numen Rubino & Joe Ramirez
 
 Sources: BoxOfficeMojo
 
@@ -27,35 +27,36 @@ To accomplish this, we scraped data off of BoxOfficeMojo using BeautifulSoup, cl
 
 ![Genres With Most Revenue](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/newest-genres-box-office.png)
 
-* The best performing genres are Adventure, Sci-Fi, Action, and Fantasy
-* Drama is the worst performing genre while Comedy is a middling performer
+* The best performing genres are Adventure, Sci-Fi, Action, and Fantasy.
+* Drama is the worst performing genre while Comedy is a middling performer.
 
 ### Numbers of Movies Made Each Year by Genre
 
 ![Number of Movies Made Each Year By Genre](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/all-genres.png)
 
-* Dramas have declined more than any other genre in recent years
+* Dramas have declined more than any other genre in recent years.
 * Comedies are also declining rapidly.
 
 ### Correlation Between Budget and Revenue by Year for All Genres
 
 ![Correlation Between Budget and Profit](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/%5B'year'%2C%20'worldwide'%5D.png)
 
-* There is in fact an increase in the correlation between budget and revenue for all genres in recent years
+* There is in fact an increase in the correlation between budget and revenue for all genres in recent years.
 
 ### Correlation Between Budget and Revenue by Year by Genre
 
 ![Correlation Between Budget and Profit By Genre](https://raw.githubusercontent.com/Mycotic/movie-data-project/master/figures/%5B'Drama'%2C%20'Comedy'%2C%20'Thriller'%2C%20'Action'%2C%20'Adventure'%2C%20'Romance'%2C%20'Crime'%2C%20'Fantasy'%2C%20'Family'%2C%20'Sci-Fi'%2C%20'worldwide'%5D.png)
 
-* Certain genres such as Action and Adventure have always had a strong relationship between budget and revenue
-* Comedies did not used to have a strong relationship between budget and revenue, but that has recently changed
+* Certain genres such as Action and Adventure have always had a strong relationship between budget and revenue.
+* Comedies did not used to have a strong relationship between budget and revenue, but that has recently changed.
 
 ## Conclusions and Recommendations for Microsoft
 
 * If Microsoft is working with a large budget, they should make films in Action and Adventure since they have a higher budget revenue correlation. 
-* Seth Rogen's hypothesis that Comedy movies need to have to big budgets in modern times in order to be successful appears to be supported by our data
-* Microsoft should capitalize on the current box office market inefficiency on Comedies by making a big-budgeted Comedy
-* They would have little competition in the genre and big-budgeted Comedies are experiencing much increased success recently
+* Seth Rogen's hypothesis that Comedy movies need to have to big budgets in modern times in order to be successful appears to be supported by our data.
+* Microsoft should capitalize on the current box office market inefficiency on Comedies by making a big-budgeted Comedy.
+* They would have little competition in the genre and big-budgeted Comedies are experiencing much increased success recently.
+* Finally, Microsoft should focus on big budget movies in general no matter the genre as the correlation between budget and worldwide revenue has been high in the 21st century.
 
 ## Future Work
 
